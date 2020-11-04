@@ -1,0 +1,83 @@
+c:\users\katy villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\ClasesVirtualesProgramacion.exe.config
+c:\users\katy villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.csprojResolveAssemblyReference.cache
+c:\users\katy villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Dialogs.baseDialog.resources
+c:\users\katy villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Form1.resources
+c:\users\katy villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Forms.frmEstudiantesList.resources
+c:\users\katy villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Properties.Resources.resources
+c:\users\katy villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.csproj.GenerateResource.Cache
+C:\Users\Katy Villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\ClasesVirtualesProgramacion.exe
+C:\Users\Katy Villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\ClasesVirtualesProgramacion.pdb
+C:\Users\Katy Villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\MySql.Data.dll
+C:\Users\Katy Villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\Google.Protobuf.dll
+C:\Users\Katy Villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\Zstandard.Net.dll
+C:\Users\Katy Villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Katy Villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Katy Villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Katy Villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\Renci.SshNet.dll
+C:\Users\Katy Villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\System.Buffers.dll
+C:\Users\Katy Villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Katy Villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Katy Villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Katy Villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\MySql.Data.xml
+C:\Users\Katy Villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.exe
+C:\Users\Katy Villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.pdb
+C:\Users\Katy Villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Dialogs.EstudianteDialog.resources
+C:\Users\Katy Villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Dialogs.GastoDialog.resources
+C:\Users\Katy Villanueva\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Forms.frmGastosList.resources
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\ClasesVirtualesProgramacion.exe.config
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.exe
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.pdb
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\ClasesVirtualesProgramacion.exe
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\ClasesVirtualesProgramacion.pdb
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\Google.Protobuf.dll
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\Zstandard.Net.dll
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\Renci.SshNet.dll
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\System.Buffers.dll
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\MySql.Data.xml
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.csprojResolveAssemblyReference.cache
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Dialogs.baseDialog.resources
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Dialogs.EstudianteDialog.resources
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Dialogs.GastoDialog.resources
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Form1.resources
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Forms.frmEstudiantesList.resources
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Forms.frmGastosList.resources
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Properties.Resources.resources
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.csproj.GenerateResource.Cache
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Forms.frmGraficaPorFormapago.resources
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Forms.frmGastosPorSubcategoria.resources
+C:\Users\jason\OneDrive\Documentos\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Forms.frmGraficoCategoria.resources
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\ClasesVirtualesProgramacion.exe.config
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.exe
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.pdb
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\ClasesVirtualesProgramacion.exe
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\ClasesVirtualesProgramacion.pdb
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\MySql.Data.dll
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\Google.Protobuf.dll
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\Zstandard.Net.dll
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\Renci.SshNet.dll
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\System.Buffers.dll
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\bin\Debug\MySql.Data.xml
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.csprojResolveAssemblyReference.cache
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Dialogs.baseDialog.resources
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Dialogs.EstudianteDialog.resources
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Dialogs.GastoDialog.resources
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Form1.resources
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Forms.frmEstudiantesList.resources
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Forms.frmGastosList.resources
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Properties.Resources.resources
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.csproj.GenerateResource.Cache
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Forms.frmGraficoPorSubcategoria.resources
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Forms.frmGraficoPorFormapago.resources
+C:\Users\Katy Villanueva\Documents\ClasesVirtualesProgramacion\ClasesVirtualesProgramacion\obj\Debug\ClasesVirtualesProgramacion.Forms.frmGraficoPorCategoria.resources
